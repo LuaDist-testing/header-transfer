@@ -1,11 +1,11 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "header-transfer"
-version = "0.0.1-0"
+version = "0.0.2-0"
 supported_platforms = {"linux", "macosx"}
 -- LuaDist source
 source = {
-  tag = "0.0.1-0",
+  tag = "0.0.2-0",
   url = "git://github.com/LuaDist-testing/header-transfer.git"
 }
 -- Original source

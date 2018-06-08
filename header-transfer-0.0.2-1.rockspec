@@ -1,10 +1,18 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "header-transfer"
 version = "0.0.2-1"
 supported_platforms = {"linux", "macosx"}
+-- LuaDist source
 source = {
-  url = "git://github.com/syhily/header-transfer",
-  branch = "master"
+  tag = "0.0.2-1",
+  url = "git://github.com/LuaDist-testing/header-transfer.git"
 }
+-- Original source
+-- source = {
+--   url = "git://github.com/syhily/header-transfer",
+--   branch = "master"
+-- }
 description = {
   summary = "Header transfer for kong",
   homepage = "http://getkong.org",
